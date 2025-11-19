@@ -3,7 +3,7 @@
 <div align="center">
 
   <!-- Profile Image -->
-  <img src="./mylogo.jpg" alt="my logo" width="120" style="border-radius:50%;" />
+  <img src="./mylogo.jpg" alt="my logo" width="300" style="border-radius:50%;" />
 
   <h1>Hi, I'm darya nemai a Front-End Developer 👋</h1>
 
